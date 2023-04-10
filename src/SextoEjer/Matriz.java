@@ -9,8 +9,8 @@ package SextoEjer;
  * @author alvin
  */
 public class Matriz {
-    private int n;
-    private int matriz[][];
+    public int n;
+    public int matriz[][];
 
     public Matriz(int n) {
         this.n = n;
