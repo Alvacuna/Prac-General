@@ -71,7 +71,7 @@ public class Password {
     }
 
     @Override
-    public String toString() {
+        public String toString() {
         return "Password{" +
                 "longitud=" + longitud +
                 ", contraseña='" + contraseña + '\'' +

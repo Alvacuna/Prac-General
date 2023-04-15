@@ -26,37 +26,7 @@ public class Main {
         
         
         
-        
-//        Empleado emp1 = new Empleado();
-//        Scanner entrada = new Scanner(System.in);
-//        int n = entrada.nextInt();
-//        Empleado v[] = new Empleado[n];
-//        for (int i = 0; i < v.length; i++) {
-//            System.out.println("Ingrese el carnet del usuario: ");
-//            int ci = entrada.nextInt();
-//            System.out.println("Ingrese el nombre del usuario: ");
-//            String nombre = entrada.next();
-//            System.out.println("Ingrese el apellido del usuario: ");
-//            String apellido = entrada.next();
-//            System.out.println("Ingrese el sueldo base del empleado: ");
-//            double sueldoBase = entrada.nextDouble();
-//            System.out.println("Ingrese pago por horas extra: ");
-//            double horasExtra = entrada.nextDouble();
-//            System.out.println("ingrese si el empleado esta casado: ");
-//            boolean casado = entrada.nextBoolean();
-//            System.out.println("Ingrese el numero de hijos: ");
-//            int numeroDeHijos = entrada.nextInt();
-//            System.out.println("Ingrese las horas extra: ");
-//            int horaExtra = entrada.nextInt();
-//            v[i] = new Empleado(ci, nombre, apellido, sueldoBase, horasExtra, casado, numeroDeHijos, horaExtra);
-//        }
-//        for (Empleado empleado : v) {
-//            if (empleado.isCasado()) {
-//                System.out.println(empleado.toString());
-//            } else {
-//                // No se hace nada
-//            }
-//        }
+     
 
     }
 
